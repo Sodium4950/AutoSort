@@ -18,7 +18,8 @@ How It Works:
 
 
 Whether you're a student, professional, or anyone juggling multiple files, AutoSort streamlines your workflow and keeps your digital space clutter-free.
-(https://github.com/Sodium4950/AutoSort/assets/140848809/1ba3d737-4b8d-4ed6-9f9f-d50d1253f019)
+
+![Autosort 1](https://github.com/Sodium4950/AutoSort/assets/140848809/9700ca69-3767-4a14-a975-cd8b03c9d702)
 
 
 # LIVE DEMO
