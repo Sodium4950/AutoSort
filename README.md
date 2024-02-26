@@ -43,6 +43,7 @@ Whether you're a student, professional, or anyone juggling multiple files, AutoS
   Step 3 :
   
   A window will appear press yes and then after the tool finishes moving files you should see something like this
+  
   ![capture4](https://github.com/Sodium4950/AutoSort/assets/140848809/77db1359-b24f-49ec-ac63-6f59545e489e)
     
   Step 4 :
