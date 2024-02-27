@@ -32,11 +32,11 @@ How It Works:
 
   Step 1 :
   
-  Choose the folder you want and make sure it has files inside otherwise the tool will display an error
+  Choose the folder you want and make sure it has files inside otherwise the tool will display an error.
   
   ![capture2](https://github.com/Sodium4950/AutoSort/assets/140848809/f9a84139-d9ba-481a-957e-7dc5f4d9711b)
 
-  In this folder we have 95 files manually moving them will take a lot of time , instead we use AutoSort application.
+  In this folder we have 95 files moving them manually will take a lot of time , instead we use AutoSort application.
 
   Step 2 :
   
