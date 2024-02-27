@@ -18,7 +18,8 @@ How It Works:
 1. Simply select the folder or directory containing your files.
 2. Choose the directory or the folder you want to sort the documents or the file inside and the tool will do the rest for you.
 3. The tool will do the rest for you.
-![Autosort 1](https://github.com/Sodium4950/AutoSort/assets/140848809/9700ca69-3767-4a14-a975-cd8b03c9d702)
+   
+   ![Autosort 1](https://github.com/Sodium4950/AutoSort/assets/140848809/9700ca69-3767-4a14-a975-cd8b03c9d702)
 
 
 # LIVE DEMO
