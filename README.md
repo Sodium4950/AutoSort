@@ -1,6 +1,8 @@
 # AutoSort
 AutoSort: Effortless File Organization Tool .
-# To download:
+# To Download:
+  ![Download Guide](https://github.com/Sodium4950/AutoSort/assets/140848809/09c57ebb-6b66-4c06-8ba6-f4a17a189219)
+
   
 # Description:
 AutoSort is your go-to solution for effortlessly organizing your files and folders. Say goodbye to the chaos of scattered documents, images, videos, and code files on your desktop or in your directories.
