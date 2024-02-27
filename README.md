@@ -1,5 +1,5 @@
 # AutoSort
-AutoSort: Effortless File Organization Tool .
+AutoSort: Automate File Organization with AutoSort .
 # To Download:
    https://github.com/Sodium4950/AutoSort/releases/tag/v1.0.0
 
