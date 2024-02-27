@@ -19,9 +19,6 @@ How It Works:
 2. Choose the directory or the folder you want to sort the documents or the file inside and the tool will do the rest for you.
 3. The tool will do the rest for you.
 
-
-Whether you're a student, professional, or anyone juggling multiple files, AutoSort streamlines your workflow and keeps your digital space clutter-free.
-
 ![Autosort 1](https://github.com/Sodium4950/AutoSort/assets/140848809/9700ca69-3767-4a14-a975-cd8b03c9d702)
 
 
