@@ -1,5 +1,5 @@
 
-# UPCOMING UPDATE ON 7/3/2024
+# UPCOMING UPDATE ON 7/3/2024 TO FIX BUGS AND INTRODUCE A NEW FEATURE
 
 # AutoSort
 AutoSort: Automate File Organization with AutoSort .
