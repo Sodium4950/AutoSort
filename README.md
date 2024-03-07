@@ -1,6 +1,8 @@
 
-# UPCOMING UPDATE ON 7/3/2024 TO FIX BUGS AND INTRODUCE A NEW FEATURE
-
+# New Update v1.1:
+   Added a feature for creating separate folders for each file type.
+   User interface improvements.
+   Bug fixes.
 # AutoSort
 AutoSort: Automate File Organization with AutoSort .
 # To Download:
