@@ -1,7 +1,9 @@
 
 # New Update v1.1:
    Added a feature for creating separate folders for each file type.
+   
    User interface improvements.
+   
    Bug fixes.
 # AutoSort
 AutoSort: Automate File Organization with AutoSort .
