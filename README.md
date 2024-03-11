@@ -9,7 +9,7 @@
 # AutoSort
 AutoSort: Automate File Organization with AutoSort .
 # To Download:
-  [ https://github.com/Sodium4950/AutoSort/releases/tag/v1.0.0](https://github.com/Sodium4950/AutoSort/releases/tag/v1.1)
+  https://github.com/Sodium4950/AutoSort/releases/tag/v1.1
 
   
 # Description:
