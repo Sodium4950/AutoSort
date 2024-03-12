@@ -8,6 +8,9 @@
    
 # AutoSort
 AutoSort: Automate File Organization with AutoSort .
+By: moustafaabdelgafar
+Email : moustafaabdelgafar@gmail.com 
+
 # To Download:
   https://github.com/Sodium4950/AutoSort/releases/tag/v1.1
 
