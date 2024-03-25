@@ -1,6 +1,6 @@
 # AutoSort
 
-AutoSort is your go-to solution for effortlessly organizing your files and folders.Say goodbye to the chaos of scattered files in your directories.
+AutoSort is your go-to solution for effortlessly organizing your files and folders. Say goodbye to the chaos of scattered files in your directories.
 
 
 ## Installation
